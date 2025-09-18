@@ -52,3 +52,10 @@ layout: default
 
 　　所以，到底怎么选？我的建议是：**短期游、怕麻烦、设备支持 → 优先eSIM；长停留、求性价比、要本地号码 → 线下办张Base或Orange的预付费卡**。毕竟，网络通畅了，你才能好好琢磨下一站是去根特看运河，还是去安特卫普淘古董，对吧？
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Belgium SIM 卡购买与激活指南](https://faciylike.github.io/belgium-sim-guides)
